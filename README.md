@@ -1,4 +1,4 @@
-# Welcome to Vision Vitality
+# Welcome to I-Care
 
 Our application provides information on the various eye diseases that exist. It also allows you to have your own personal eye images examined for possible diseases, which if left untreated can lead to the development of cancer.
 
