@@ -9,10 +9,9 @@ Our application has been deployed on Azure so you can use it freely. Copy and pa
 
 We had our Dockerfil if you want to deploy it or run it locally.
 
+
+
 Note: This project is for educational purposes and may require further development and optimization for real-world use.
-
 Authors: Chloé GATTINO, Carla HAMEURY and Marie MICHOT
-
 Date: 29/10/2023
-
 GitHub Repository: chlo-gto91/DataCamp (github.com)
