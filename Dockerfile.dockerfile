@@ -1,8 +1,8 @@
 FROM python:3.9-slim
 RUN mkdir /ICare
 WORKDIR /ICare
-COPY imperative.txt imperative.txt
-RUN pip install -r imperative.txt
+COPY requirements.txt requirements.txt
+RUN pip install -r requirements.txt
 COPY . /ICare
 
 RUN apt-get update && apt-get install -y \
