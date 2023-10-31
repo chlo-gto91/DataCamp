@@ -5,7 +5,7 @@ Our application provides information on the various eye diseases that exist. It 
 Whatever page you're on, the eye test is available. To use it, just click on the "Browse files" button, then choose the image you want to analyze. 
 Finally, click on "here" to see the result that will appear after the image has been processed. 
 
-Our application has been deployed on Azure so you can use it freely. Copy and paste the link below and see for yourself: 
+Our application has been deployed on Azure so you can use it freely. Copy and paste the link below and see for yourself: https://i-care.azurewebsites.net/
 
 We had our Dockerfil if you want to deploy it or run it locally.
 
